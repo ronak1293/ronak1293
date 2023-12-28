@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ronak1293
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on data science
 
 <!---
 ronak1293/ronak1293 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
